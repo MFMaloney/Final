@@ -34,7 +34,7 @@ $(document).ready(
 					fontSize: "12px"
 				})
 			});
-	});
+	
 
 		$(".twitter").mouseenter(function(){
 			$(".twitter").css({
@@ -98,3 +98,4 @@ $(document).ready(
 				height: "100px"
 			})
 		});			
+	});
